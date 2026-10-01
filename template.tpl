@@ -154,7 +154,7 @@ ___WEB_PERMISSIONS___
             "listItem": [
               {
                 "type": 1,
-                "string": "https://whooshly.co/share.js*"
+                "string": "https://whooshly.co/share.js"
               }
             ]
           }

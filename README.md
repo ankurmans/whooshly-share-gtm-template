@@ -12,7 +12,7 @@ See the [full setup guide](https://whooshly.co/docs/share-kit/platforms#google-t
 
 ## Permissions and privacy
 
-This template requests only `inject_script` for `https://whooshly.co/share.js*`. The share buttons do not set cookies. When a visitor presses or hovers over a share button, the page URL and chosen network are sent to Whooshly to create a short link; Whooshly also receives the request IP for abuse controls. See the [privacy policy](https://whooshly.co/privacy).
+This template requests only `inject_script` for `https://whooshly.co/share.js`. The share buttons do not set cookies. When a visitor presses or hovers over a share button, the page URL and chosen network are sent to Whooshly to create a short link; Whooshly also receives the request IP for abuse controls. See the [privacy policy](https://whooshly.co/privacy).
 
 Report problems in [Issues](https://github.com/ankurmans/whooshly-share-gtm-template/issues). The source and local tests also live in the [Whooshly repository](https://github.com/ankurmans/whooshly/tree/main/integrations/gtm).
 
