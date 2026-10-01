@@ -1,0 +1,5 @@
+homepage: "https://whooshly.co/share-kit"
+documentation: "https://whooshly.co/docs/share-kit/platforms#google-tag-manager"
+versions:
+  - sha: c1a19bfcd7a57523467d68ae005716cb4359df81
+    changeNotes: Initial release.
