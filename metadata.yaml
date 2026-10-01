@@ -1,5 +1,7 @@
 homepage: "https://whooshly.co/share-kit"
 documentation: "https://whooshly.co/docs/share-kit/platforms#google-tag-manager"
 versions:
+  - sha: 338cf8acbbcdcd700359fde69afc0bf878a5c2fc
+    changeNotes: Fix loader permission so share buttons render in GTM Preview.
   - sha: c1a19bfcd7a57523467d68ae005716cb4359df81
     changeNotes: Initial release.
